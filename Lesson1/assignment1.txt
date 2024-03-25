@@ -1,0 +1,8 @@
+The Significance of the meta charset utf-8
+
+"UTF-8 (U from Universal Character Set + Transformation Format—8-bit) is a character encoding capable of encoding all possible characters (called code points) in Unicode. The encoding is variable-length and uses 8-bit code units."
+
+UTF-8 is just another method of encoding characters to numbers and vice versa in the computer memory.
+Other methods are ASCII, ANSI, etc, which have all been found to be limiting because they do not cover every notable characters.
+This is what sets the UTF-8 apart from the rest of it. It lets you write texts in all languanges, highlighting every character as it is in that language.
+
